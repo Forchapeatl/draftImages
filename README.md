@@ -16,5 +16,4 @@ Start processing frombackground , save video
 ![image](https://user-images.githubusercontent.com/24577149/162644189-d540e194-5bc6-4ec1-8090-8cd5d37ed09f.png)
 ![image](https://user-images.githubusercontent.com/24577149/162644202-2dc14330-db75-43d5-876b-6cc69a0d3a5c.png)
 ![image](https://user-images.githubusercontent.com/24577149/166470603-aaee0bc5-c7a3-40d0-85ab-87628dce9e4e.png)
-![image](https://user-images.githubusercontent.com/24577149/168562720-b5f11167-df07-4423-899e-b291d78aae31.png)
 
