@@ -1,3 +1,11 @@
+Close camera input
+Select option Image
+Hover Vs detais Red Vs Blue
+Fullscreen background icon
+Upload Video;
+Start processing frombackground , save video
+
+
 # draftImages
 ![image](https://user-images.githubusercontent.com/24577149/162644046-ac61f921-50c9-44d4-9c0c-4fe0ec9acebb.png)
 ![image](https://user-images.githubusercontent.com/24577149/162644064-d5306569-e137-4ac6-abf6-456eeab679a8.png)
