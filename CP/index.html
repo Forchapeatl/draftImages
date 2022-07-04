@@ -1,109 +1,38 @@
-
+<!DOCTYPE html>
 <html>
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <link rel="stylesheet " type="text/css" href="https://cses.fi/cses.css?2" id="styles">
-  <link rel="stylesheet alternate" type="text/css" href="https://cses.fi/cses-dark.css?2" id="styles-dark">
-  <meta name="theme-color" content="white" id="theme-color">
-  <script type="application/json" id="darkmode-enabled">false</script>
-  <script src="https://cses.fi/ui.js"></script>
-  <link rel="stylesheet" type="text/css" href="https://cses.fi/lib/fontawesome/css/all.min.css">
-</head>
-<body class="with-sidebar ">
-  <div class="header">
-    <div>
-      <a href="/" class="logo"><img src="https://cses.fi/logo.png?1" alt="CSES"></a>
-      <a class="menu-toggle" onclick="document.body.classList.toggle('menu-open');">
-        <i class="fas fa-bars"></i>
-      </a>
-      <div class="controls">
-                <a class="account" href="/user/103858">isles</a>
-        <span>&mdash;</span>
-                        <a href="https://cses.fi/darkmode" title="Toggle dark mode" onclick="return toggle_theme()"><i class="fas fa-adjust"></i><span>Dark mode</span></a>
-                <a href="/logout" title="Log out"><i class="fas fa-sign-out-alt"></i><span>Log out</span></a>
-              </div>
-    </div>
-  </div>
-  <div class="skeleton">
-
-  <div class="navigation">
-    <div class="title-block">
-      <h3><a href="https://cses.fi/problemset/list/">CSES Problem Set</a></h3>
-      <h1>Point Location Test</h1>
-<ul class="nav">
-<li><a href="https://cses.fi/problemset/task/2189/" class="current">Task</a></li>
-<li><a href="https://cses.fi/problemset/submit/2189/" >Submit</a></li>
-<li><a href="https://cses.fi/problemset/view/2189/" >Results</a></li>
-<li><a href="https://cses.fi/problemset/stats/2189/" >Statistics</a></li>
-</ul>
-    </div>
-    <div class="sidebar"></div>
-  </div>
-
-  <div class="content-wrapper">
-
-    <div class="content">
-
-
-<title>CSES - Point Location Test</title><script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-  tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]},
-  "HTML-CSS": {
-    scale: 90,
-    preferredFont: "TeX",
-    availableFonts: ["TeX"],
-  },
-  MathMenu: {
-    showLocale: false,
-  },
-});
-</script>
+<title>MathJax MathML Test Page</title>
 <script type="text/javascript"
-  src="https://cses.fi/lib/MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
-<script src="https://cses.fi/lib/google-code-prettify/run_prettify.js"></script>
-<ul class="task-constraints">
-<li><b>Time limit:</b> 1.00 s</li>
-<li><b>Memory limit:</b> 512 MB</li>
-</ul>
-<input type="hidden" name="course" value="problemset">
-<input type="hidden" name="task" value="2189">
-There is a line that goes through the points $p_1=(x_1,y_1)$ and $p_2=(x_2,y_2)$. There is also a point $p_3=(x_3,y_3)$.<br />
-<br />
-Your task is to determine whether $p_3$ is located on the left or right side of the line or if it touches the line when we are looking from $p_1$ to $p_2$.<br />
-<br />
-<b id="input">Input</b><br />
-<br />
-The first input line has an integer $t$: the number of tests.<br />
-<br />
-After this, there are $t$ lines that describe the tests. Each line has six integers: $x_1$, $y_1$, $x_2$, $y_2$, $x_3$ and $y_3$.<br />
-<br />
-<b id="output">Output</b><br />
-<br />
-For each test, print &quot;LEFT&quot;, &quot;RIGHT&quot; or &quot;TOUCH&quot;.<br />
-<br />
-<b id="constraints">Constraints</b><br />
-<ul>
-<li>$1 \le t \le 10^5$<br />
-<li>$-10^9 \le x_1, y_1, x_2, y_2, x_3, y_3 \le 10^9$<br />
-<li>$x_1 \neq x_2$ or $y_1 \neq y_2$<br />
-</ul>
-<b id="example">Example</b><br />
-<br />
-Input:<br />
-<code>3<br />
-1 1 5 3 2 3<br />
-1 1 5 3 4 1<br />
-1 1 5 3 3 2</code><br />
-<br />
-Output:<br />
-<code>LEFT<br />
-RIGHT<br />
-TOUCH</code>    </div>
-    <div class="nav sidebar">
-<h4>Geometry</h4><a class="current" href="https://cses.fi/problemset/task/2189">Point Location Test<span class="task-score icon "></span></a><a  href="https://cses.fi/problemset/task/2190">Line Segment Intersection<span class="task-score icon "></span></a><a  href="/problemset/task/2191">Polygon Area<span class="task-score icon "></span></a><a  href="/problemset/task/2192">Point in Polygon<span class="task-score icon "></span></a><a  href="/problemset/task/2193">Polygon Lattice Points<span class="task-score icon "></span></a><a  href="/problemset/task/2194">Minimum Euclidean Distance<span class="task-score icon "></span></a><a  href="/problemset/task/2195">Convex Hull<span class="task-score icon "></span></a>      <hr />
-<h4>Your submissions</h4>
+</head>
+<body>
 
-</div>
-</div>
+When <math><mi>a</mi><mo>&#x2260;</mo><mn>0</mn></math>,
+there are two solutions to <math>
+  <mi>a</mi><msup><mi>x</mi><mn>2</mn></msup>
+  <mo>+</mo> <mi>b</mi><mi>x</mi>
+  <mo>+</mo> <mi>c</mi> <mo>=</mo> <mn>0</mn>
+</math> and they are
+<math mode="display">
+  <mi>x</mi> <mo>=</mo>
+  <mrow>
+    <mfrac>
+      <mrow>
+        <mo>&#x2212;</mo>
+        <mi>b</mi>
+        <mo>&#x00B1;</mo>
+        <msqrt>
+          <msup><mi>b</mi><mn>2</mn></msup>
+          <mo>&#x2212;</mo>
+          <mn>4</mn><mi>a</mi><mi>c</mi>
+        </msqrt>
+      </mrow>
+      <mrow> <mn>2</mn><mi>a</mi> </mrow>
+    </mfrac>
+  </mrow>
+  <mtext>.</mtext>
+</math>
+
+</body>
+</html>
