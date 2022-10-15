@@ -31,4 +31,7 @@ Start processing frombackground , save video
 ![seal-removebg-edit (1)](https://user-images.githubusercontent.com/24577149/194942868-9b5f6d95-27f9-4957-b7b6-fb1969e36a3a.png)
 
 ![IMG-20221010-WA0003](https://user-images.githubusercontent.com/24577149/195004265-4eb053f5-4a19-4de3-b19e-410273eca754.jpg)
+![books](https://user-images.githubusercontent.com/24577149/196005449-719e9317-c3ec-463e-90ef-a0054150d5b3.png)
+![idea](https://user-images.githubusercontent.com/24577149/196005451-847f9edc-50f2-40ed-87f1-2af7b8eab45e.jpg)
+![team](https://user-images.githubusercontent.com/24577149/196005452-48e3240c-1774-4d83-b1d2-1269149b121b.png)
 
