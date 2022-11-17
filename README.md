@@ -62,6 +62,7 @@ Start processing frombackground , save video
 
 ![fad](https://user-images.githubusercontent.com/24577149/202367501-2645e8b7-5147-47d4-9638-312cd26989d7.jpeg)
 ![ngal](https://user-images.githubusercontent.com/24577149/202367517-e4726cb5-09b0-4e7c-bb08-c6048c92abc3.jpg)
+![Uploading FAD.jpg…]()
 
 ![sil](https://user-images.githubusercontent.com/24577149/202367682-5b0e9b22-2724-4ca0-84db-82c2387c4a5c.png)
 ![star](https://user-images.githubusercontent.com/24577149/202367725-a8c10ee4-fe64-4828-9f23-665bc7dbd613.jpeg)
@@ -70,4 +71,9 @@ Start processing frombackground , save video
 
 
 [ELECTORAL CODE _20221101_0001 (1).pdf](https://github.com/Forchapeatl/draftImages_PublicLab/files/10030919/ELECTORAL.CODE._20221101_0001.1.pdf)
+
+
+![FAD](https://user-images.githubusercontent.com/24577149/202451541-7e8a475b-c991-452c-b475-55614f6dead8.jpg)
+
+
 
