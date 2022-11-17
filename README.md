@@ -69,4 +69,5 @@ Start processing frombackground , save video
 ![cam](https://user-images.githubusercontent.com/24577149/202369811-7461c1ee-b1d8-4dfe-9db4-6a9beebfeeb4.png)
 
 
+[ELECTORAL CODE _20221101_0001 (1).pdf](https://github.com/Forchapeatl/draftImages_PublicLab/files/10030919/ELECTORAL.CODE._20221101_0001.1.pdf)
 
