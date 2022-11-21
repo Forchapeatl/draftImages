@@ -144,4 +144,5 @@ Start processing frombackground , save video
 
 ![globe](https://user-images.githubusercontent.com/24577149/203034748-ddd0ef0d-2eb3-4d07-bc85-3834639722fe.png)
 
+![Globe svg](https://user-images.githubusercontent.com/24577149/203035327-80c29a23-1956-4646-b9fa-eee5d5f5c86b.png)
 
