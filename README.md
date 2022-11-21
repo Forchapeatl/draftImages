@@ -133,4 +133,7 @@ Start processing frombackground , save video
 ![Removal-435](https://user-images.githubusercontent.com/24577149/203026124-3afcaa5b-b3d6-4460-be59-835013ada1f4.png)
 
 
+![Mandara_Mountains_from_Yola](https://user-images.githubusercontent.com/24577149/203027083-0b8477f5-0f0c-443d-96c4-4d124c73cee9.jpg)
+
+
 
