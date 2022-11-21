@@ -116,4 +116,8 @@ Start processing frombackground , save video
 
 ![bureau](https://user-images.githubusercontent.com/24577149/202999355-05668bcf-f254-4f07-a0b1-c984881d1e2b.jpg)
 
+![log012](https://user-images.githubusercontent.com/24577149/203006960-26c9c98f-f550-414b-9d5a-760f2494bee6.jpg)
+
+
+
 
