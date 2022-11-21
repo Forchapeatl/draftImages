@@ -130,3 +130,7 @@ Start processing frombackground , save video
 
 ![mapregc](https://user-images.githubusercontent.com/24577149/203024907-34588393-3acd-4450-9c45-ce229c44b1b1.png)
 
+![Removal-435](https://user-images.githubusercontent.com/24577149/203026124-3afcaa5b-b3d6-4460-be59-835013ada1f4.png)
+
+
+
