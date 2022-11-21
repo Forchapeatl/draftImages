@@ -99,3 +99,16 @@ Start processing frombackground , save video
 
 ![youthPeople](https://user-images.githubusercontent.com/24577149/202856339-1f9493ad-311a-45a1-b0ef-bfce7ef9e3cc.jpg)
 
+
+
+![biya](https://user-images.githubusercontent.com/24577149/202984874-5ae1f7d1-0796-4dcd-bad7-11a271c5955b.jpg)
+
+
+
+![mini](https://user-images.githubusercontent.com/24577149/202984934-f0b6e471-88d1-423c-a60e-7b4c0e8988c0.jpg)
+
+![bureau_photos_v2_faces_x2_colored_toned_light_ai](https://user-images.githubusercontent.com/24577149/202985039-37775f4b-2c6b-403c-829b-d5367ee0ac85.jpg)
+
+
+
+
