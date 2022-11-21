@@ -109,4 +109,4 @@ Start processing frombackground , save video
 
 ![bureau_photos_v2_faces_x2_colored_toned_light_ai](https://user-images.githubusercontent.com/24577149/202985039-37775f4b-2c6b-403c-829b-d5367ee0ac85.jpg)
 
-![20210122_135353 (2) (1)](https://user-images.githubusercontent.com/24577149/202988888-0544253f-b2c6-4e0f-8185-f6770212e1af.jpg)
+![20210122_135257 (1)](https://user-images.githubusercontent.com/24577149/202994100-67e33111-3775-42ae-84b5-1560fc61068b.jpg)
