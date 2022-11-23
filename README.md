@@ -189,5 +189,8 @@ Start processing frombackground , save video
 ![ABOMO MANDIO Anastasie Vice Présidente N 22](https://user-images.githubusercontent.com/24577149/203494923-4dbd39b2-4191-4656-a2b4-656293468480.jpeg)
 
 
+![WhatsApp Image 2022-11-23 at 8 57 44 AM](https://user-images.githubusercontent.com/24577149/203496552-d320d324-2cb0-4bcc-aa33-0854a0aa7a1f.jpeg)
+
+
 
 
